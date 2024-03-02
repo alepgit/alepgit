@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. - 🔭 I’m currently working on computer science. I’m a student and I’m currently learning everything fun, efficient and compute thinks.
+
 
 <!--
 **alepgit/alepgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
